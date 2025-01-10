@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Doogle Results</title>
+    <link href="https://fonts.googleapis.com/css2?family=Product+Sans&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            padding: 20px;
+        }
+        .logo {
+            font-family: 'Product Sans', sans-serif;
+            font-size: 32px;
+            color: #4285F4;
+            margin-bottom: 20px;
+        }
+        .logo span {
+            color: #EA4335;
+        }
+        .logo span:nth-child(3) {
+            color: #FBBC05;
+        }
+        .logo span:nth-child(4) {
+            color: #34A853;
+        }
+        .results {
+            margin-top: 20px;
+        }
+        .result {
+            margin-bottom: 15px;
+            padding: 10px;
+            border: 1px solid #dfe1e5;
+            border-radius: 8px;
+            background-color: #f8f9fa;
+        }
+        .result a {
+            text-decoration: none;
+            color: #1a0dab;
+            font-size: 18px;
+        }
+        .result a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="logo">D<span>o</span><span>o</span><span>g</span>le</div>
+    <h2>Search Results for: "{{ query }}"</h2>
+    <div class="results">
+        {% for result in results %}
+            <div class="result">
+                <a href="{% url 'doogle_results' %}" data-document-id="{{ result.1 }}">{{ result.0 }}</a>
+            </div>
+        {% empty %}
+            <p>No results found.</p>
+        {% endfor %}
+    </div>
+</body>
+</html>

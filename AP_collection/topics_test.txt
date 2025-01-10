@@ -1,0 +1,512 @@
+<num>31
+
+
+<title>Abuse of the Elderly by Family Members, and Medical and
+Nonmedical Personnel, and Initiatives Being Taken to Minimize This 
+Mistreatment 
+
+<desc>
+
+Document will identify reports of elderly patients being abused in 
+nursing homes and other facilities by skilled medical and nonmedical
+personnel and family members.
+
+<narr>
+
+To be relevant a document must provide pertinent data on abuse of
+the elderly in nursing homes or related facilities by health care 
+professionals, nonmedical personnel and family members involved in
+patient care.  The document must cite the type of abuse inflicted and
+the category of personnel involved in the abuse.  Laws and 
+regulations affecting patient care are relevant when specific 
+changes in policy or procedures to reduce abuse are indicated.
+Generalized statements on the environmental conditions prevalent in
+the facilities are not relevant unless specific data is presented
+to indicate positive action is being taken to alleviate
+the conditions.
+
+</top>
+ 
+<top>
+
+<num>32 
+
+
+<title>Commercial Overfishing Creates Food Fish Deficit  
+
+<desc>
+
+Document will provide information that the world's food fish 
+population is decreasing due to commercial overfishing, and 
+should present information for the need for counteractive
+measures.
+
+<narr>
+
+Relevant document will present data that reflects that 
+commercial overfishing has created a shortage in the world
+food fish population.  Document will identify any law or 
+regulation or area restrictions and limits resulting from
+the shortage, and alternate actions being taken to supplement
+the current demand for food fish; e.g., aquaculture, different
+fishing areas, alternative species of fish.
+ 
+</top>
+ 
+<top>
+
+<num>33 
+
+
+<title>Asbestos Related Lawsuits 
+
+<desc>
+
+Document will report on asbestos related lawsuits concerning
+asbestosis, a chronic disease of the lungs or mesothelioma,
+an incurable cancer of the chest and abdominal membranes.
+
+<narr>
+
+A relevant document will report on lawsuits stemming from
+diseases attributed to asbestos use in buildings, 
+manufacturing plants or shipyards.  Although they may be
+scientifically pertinent, reports on cancers/diseases
+caused by asbestos use are not relevant to this topic
+unless they are explicitly linked to a lawsuit.
+
+</top>
+ 
+<top>
+
+<num>34 
+
+
+<title>Corporate Pension Plans/Funds 
+
+<desc>
+
+Document will report on problems associated with pension
+plans/funds such as fraud, skimming, tapping or raiding.
+
+<narr>
+
+A relevant document will report on problems associated 
+with pension plans/funds and also U.S. Government 
+regulatory controls on pension plans.  Examples of 
+problems that are considered relevant are fraud, skimming,
+tapping or raiding.
+
+</top>
+ 
+<top>
+
+<num>35 
+
+
+<title>Reform of the U.S. Welfare System 
+
+<desc>
+
+Document will report on reform of welfare system in the
+U.S. at the federal, state or local levels of government.
+
+<narr>
+
+A relevant document will report on the actual or proposed
+overhaul of the welfare system at all levels of government.
+Some examples of reforms to the welfare system are work,
+education and training programs aimed primarily at
+welfare recipients.
+
+</top>
+ 
+<top>
+
+<num>36 
+
+
+<title> Topic:  Difference of Learning Levels Among Inner
+City and More Suburban School Students 
+
+<desc>
+
+Document should report the actual or alleged difference in
+educational learning levels among inner city and other public
+school students.
+
+<narr>
+
+Relevant document must indicate that a different level of    
+educational skills does exist between inner city school
+students and other school's students citing measures such as
+grade point averages.  A relevant document should point to
+at least one causative.  Such factors might be:  better
+qualified teachers and administrators, more financial 
+assistance to other schools, more parent interest or 
+involvement, student motivation, peer pressure, and economic
+or environment backgrounds.
+
+</top>
+ 
+<top>
+
+<num>37 
+
+
+<title>Signs of the Demise of Independent Publishing 
+
+<desc>
+
+Document must identify instances of the loss of independence   
+by publishers, from the sale or merger of their business or 
+publication, or the sale of a significant interest in it to
+another person or company.
+
+<narr>
+
+A relevant document might describe the purchase of a publishing
+house by a more diversified industry, the takeover of a small
+publisher by a larger one, or the merger of two or more publishers
+or publications.  The closing of a publishing house, subsidiary,
+imprint, magazine, or newspaper would also be relevant.  In   
+general, a relevant document will indicate the narrowing of the
+publishing industry.
+
+</top>
+ 
+<top>
+
+<num>38 
+
+
+<title>Beachfront Erosion 
+
+<desc>
+
+Document will identify instances of beach erosion anywhere in
+the U.S. and what, if anything, is being done to prevent its
+repetition.
+
+<narr>
+
+To be relevant, a document will identify a specific location
+and whether the erosion was natural or storm related.  Procedures
+implemented to replenish current beaches and to preclude or
+minimize future instances of erosion would also be relevant.
+Identification of funds, regardless of source, for use on 
+specific beaches or areas would be relevant as well as  
+identification of any local, state or federal legislative 
+action(s) restricting use of affected areas, erosion of
+farmland and along rivers and related stream banks is
+not relevant.
+
+</top>
+ 
+<top>
+
+<num>39 
+
+
+<title>Real Motives for Murder 
+
+<desc>
+
+Document must identify a murderer's motive for killing a
+person or persons in a true case.
+
+<narr>
+
+Most relevant would be a description of an intentional 
+murder with a statement of the murderer's motive.  An 
+unintentional murder, such as in a charge of second-degree
+homicide, would be relevant if a motive is stated for an 
+action which clearly led to the victim's death.
+
+</top>
+ 
+<top>
+
+<num>40 
+
+
+<title>Instances of Fraud Involving the Use of a Computer
+
+<desc>
+
+Document will report instances of fraud accomplished anywhere in
+the world through the use of an electronic computer.
+
+<narr>
+
+To be relevant, document will describe an example or examples of
+the use of an electronic computer to gain an unfair or dishonest
+advantage against any entity (government, business, individual)
+anywhere in the world.
+ 
+</top>
+ 
+<top>
+
+<num>41 
+
+
+<title>Efforts to Improve U.S. Schooling 
+
+<desc>
+
+Documents will report an attempt or idea within the U.S. 
+to improve student performance at any level (K through
+post-graduate) by any means (teacher pay, new equipment,
+new methods, new incentives, etc.).
+
+<narr>
+
+To be relevant, document will:
+
+(a) specify the suggestion or course of action being 
+undertaken which had as its goal an improvement of
+scholastic achievement at any level within the U.S.
+educational establishment, and
+
+(b) identify the proponent or proponents of such an
+improvement.
+
+</top>
+ 
+<top>
+
+<num>42
+
+
+<title>Oil Spill Cleanup 
+
+<desc>Document will identify a method, procedure, or
+chemical used in cleaning up oil spills such as the Exxon Valdez.  Only
+oil spills on water (ocean, bay, lake, etc.) will be used.
+
+
+<narr>
+
+To be relevant a document will identify a method, procedure, or
+chemical process used in cleaning up the water and beaches after a 
+major oil spill, such as the Exxon Valdez incident.  The mere mention
+of cleanup efforts without identifying the method or chemical used
+is not relevant.  A document that refers to a procedure such as scrubbing,
+spraying, etc. is relevant.  References to the cost of cleanup and number
+of people and equipment involved without mentioning the method are
+not relevant.
+
+</top>
+ 
+<top>
+
+<num>43
+
+
+<title>Toys R Dangerous 
+
+<desc> Document will report the dangers of certain toys 
+to children and the activities by consumer safety groups and parents 
+against production and retail of these dangerous toys.
+
+
+<narr>A relevant document will feature information compiled
+by consumer safety groups and concerned parents on manufactured toys they
+consider dangerous to the health of children and the harm that toy could
+cause a child.  A relevant document may present information on the number
+of injuries or deaths caused by dangerous toys, which may cause follow-
+on actions by the manufacturer to include recalls or discontinuance of the
+production of the toy.  A non-relevant document would contain information
+regarding the general production, advertisment and sale of toys.
+
+
+</top>
+ 
+<top>
+
+<num>44 
+
+
+<title>The Amount of Money Earned by Writers 
+
+<desc>
+
+Document must quote amount of money earned by writers as a
+result of their writing efforts.
+
+<narr>
+
+Amount of money quoted may refer to money paid to a writer
+for a single item, such as a book advance or a movie deal;
+or may be cumulative over a period of time.  It may also
+result from ancillary activities such as speaking 
+engagements resulting from what they have written.
+Writing in any medium is relevant.  A figure may also refer
+to a range, such as an industry standard, instead of a 
+particular payment.
+
+</top>
+ 
+<top>
+
+<num>45
+
+
+<title>Stock Market Perturbations Attributable to
+Computer Initiated Trading
+
+<desc>Document will discuss positive or
+negative instances of stock market shifts primarily
+owing to computer assisted trading initiatives.
+
+
+<narr>To be relevant, a document will report
+on what stock market analysts or financial reporters
+consider reportable upward or downward shifts in
+any world-wide market caused at least partially if not
+entirely by computer programs which upon recognition of
+certain conditions triggered a buy or sell action by
+any category of stock market investor (individual,
+company, fund, etc).
+
+
+</top>
+ 
+<top>
+
+<num>46
+
+
+<title>School Choice Voucher System and its effects
+upon the entire U.S. educational program 
+
+<desc>Document will discuss the effects,
+positive or negative, of a proposed or actual government
+financed voucher system for elementary and secondary
+students enabling them to attend the school of their
+choice.
+
+
+<narr>A relevant document will report on
+the advantages or disadvantages of a voucher system for
+public school students who wish to enroll in a private
+school and be subsidized by government funds.  The
+document will identify reasons for the voucher choice
+and could discuss the possible rise in enrollment of
+private and church related schools and the effect the
+voucher system could/would have upon the U.S. public
+school system.
+
+
+</top>
+ 
+<top>
+
+<num>47
+
+
+<title>Reform of the jurisprudence system
+to stop juries from granting unreasonable monetary
+awards 
+
+<desc>Document will discuss legal tort
+reform (a civil wrong for which the injured party
+seeks a judgement) with regard to placing limitations
+on monetary compensation to plaintiffs.
+
+
+<narr>A relevant document will report on
+tort reform as it relates to exorbitant financial
+remuneration awarded by juries to a plaintiff as a
+result of bias, injury, malpractice, or loss of civil
+liberties.  It could also discuss what constitutes a
+reasonable award or settlement.  Also, a relevant
+document could report on or discuss a fee for the 
+attorney(s) involved, vice a percentage of the award,
+the upper limits of a judgement a jury can award, 
+and judges overturning awards.
+
+
+</top>
+ 
+<top>
+
+<num>48
+
+
+<title> Gene Therapy and Its Benefits to 
+Humankind 
+
+<desc> Description: A document will discuss the advances
+in medical science which enable researchers to alter
+genes thereby effecting a cure or stabilizing a person`s
+medical condition or illness.
+
+
+<narr>A relevant document will report on 
+scientific and medical research currently being undertaken
+or planned, to identify those genes which are responsible
+for specific illnesses, acquired or hereditary; e.g., cystic
+fibrosis, sickle cell anemia, hemophilia, mild retardation,
+muscular dystrophy.  Also relevant is any discussion/
+reporting on gene splicing and gene implantation techniques
+as well as tests for adults which could identify future 
+parents whose children will inherit an illness.
+
+
+</top>
+ 
+<top>
+
+<num>49
+
+
+<title>Legality of Medically Assisted Suicides 
+
+<desc> Description:  Document will discuss a suicide that
+is effected through the assistance of a medically competent
+person -- doctor, nurse, medical technician etc.  -- and
+the legality of such an assisted action.
+
+
+<narr>A relevant document will discuss a
+suicide that is effected through the assistance of a medically
+competent person and the legal ramifications of such an
+assisted action.  It should also include any undue influence,
+such as counseling, suggestions, recommendations, and
+preparation of medications by the medical person which would
+incline the ill person to choose to commit suicide rather
+than it being an independent and free personal action.
+A suicide committed for health reasons, but as a totally
+independent action free from any medical assistance, is not
+relevant.
+
+
+</top>
+ 
+<top>
+
+<num>50
+
+
+<title>Impact of foreign textile imports on U.S.
+textile industry
+
+<desc>Document must report on how the importation
+of foreign textiles or textile products has influenced or 
+impacted on the U.S. textile industry.
+
+
+<narr>The impact can be positive or negative or
+qualitative.  It may include the expansion or shrinkage of 
+markets or manufacturing volume or an influence on the methods or
+strategies of the U.S. textile industry.  "Textile industry"
+includes the production or purchase of raw materials; basic
+processing techniques such as dyeing, spinning, knitting,
+or weaving; the manufacture and marketing of finished goods;
+and also research in the textile field.
+
+
+</top>
+ 

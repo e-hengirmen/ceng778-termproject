@@ -1,0 +1,82 @@
+               name       map  recip_rank      ndcg     Rprec
+0      stemmed BM25  0.318246    0.598302  0.600317  0.314581
+1    unstemmed BM25  0.257635    0.649448  0.529197  0.278616
+2    stemmed TF_IDF  0.320408    0.622093  0.603118  0.314790
+3  unstemmed TF_IDF  0.258550    0.650303  0.529839  0.278254
+4       stemmed PL2  0.312439    0.608135  0.597750  0.328574
+5     unstemmed PL2  0.253877    0.630468  0.522988  0.272485
+6       stemmed DPH  0.325606    0.614737  0.607717  0.331745
+7     unstemmed DPH  0.263250    0.666041  0.531750  0.283346
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+
+                               name       map  recip_rank      ndcg     Rprec
+0                             tfidf  0.320408    0.622093  0.603118  0.314790
+1   tfidf WITH SequentialDependence  0.325746    0.632390  0.607644  0.320109
+2      tfidf WITH Bo1QueryExpansion  0.362950    0.617022  0.631349  0.363135
+3                    tfidf WITH RM3  0.362856    0.581707  0.626053  0.352890
+4       tfidf WITH KLQueryExpansion  0.366433    0.625982  0.633914  0.364881
+5            tfidf WITH AxiomaticQE  0.320408    0.622093  0.603118  0.314790
+6                              bm25  0.318246    0.598302  0.600317  0.314581
+7    bm25 WITH SequentialDependence  0.321531    0.618610  0.603880  0.314689
+8       bm25 WITH Bo1QueryExpansion  0.359536    0.621329  0.631464  0.362582
+9                     bm25 WITH RM3  0.356269    0.574484  0.621390  0.353106
+10       bm25 WITH KLQueryExpansion  0.362391    0.620284  0.632950  0.363530
+11            bm25 WITH AxiomaticQE  0.318246    0.598302  0.600317  0.314581
+12                              dph  0.325606    0.614737  0.607717  0.331745
+13    dph WITH SequentialDependence  0.326507    0.610772  0.607487  0.335006
+14       dph WITH Bo1QueryExpansion  0.383288    0.618156  0.643884  0.371847
+15                     dph WITH RM3  0.373498    0.610785  0.633986  0.362962
+16        dph WITH KLQueryExpansion  0.388852    0.632399  0.647785  0.378578
+17             dph WITH AxiomaticQE  0.325606    0.614737  0.607717  0.331745
+18                              pl2  0.312439    0.608135  0.597750  0.328574
+19    pl2 WITH SequentialDependence  0.315985    0.615666  0.600170  0.324022
+
+20       pl2 WITH Bo1QueryExpansion  0.357310    0.623824  0.627992  0.361801
+21                     pl2 WITH RM3  0.349491    0.619207  0.617920  0.346396
+22        pl2 WITH KLQueryExpansion  0.360205    0.618033  0.627597  0.365880
+23             pl2 WITH AxiomaticQE  0.312439    0.608135  0.597750  0.328574
+
+    name       map  recip_rank      ndcg     Rprec
+0  tfidf  0.320408    0.622093  0.603118  0.314790
+1   bm25  0.318246    0.598302  0.600317  0.314581
+2    dph  0.325606    0.614737  0.607717  0.331745
+3    pl2  0.312439    0.608135  0.597750  0.328574
+
+
+tfidf WITH Bo1QueryExpansion
+tfidf WITH KLQueryExpansion
+dph WITH Bo1QueryExpansion
+dph WITH KLQueryExpansion
+
+
+name          tfidf WITH SequentialDependence
+map                                  0.388852
+recip_rank                           0.632399
+ndcg                                 0.647785
+Rprec                                0.378578
+dtype: object
+
+
+
+                                                 name       map  recip_rank      ndcg     Rprec
+0   tfidf WITH Bo1QueryExpansion - tfidf WITH KLQu...  0.385566    0.637601  0.640672  0.368368
+1   tfidf WITH Bo1QueryExpansion - dph WITH Bo1Que...  0.384221    0.662822  0.640246  0.366295
+2   tfidf WITH Bo1QueryExpansion - dph WITH KLQuer...  0.378703    0.660530  0.637325  0.361354
+3   tfidf WITH KLQueryExpansion - tfidf WITH Bo1Qu...  0.386757    0.636639  0.638977  0.367404
+4   tfidf WITH KLQueryExpansion - dph WITH Bo1Quer...  0.381826    0.664035  0.639492  0.363073
+5   tfidf WITH KLQueryExpansion - dph WITH KLQuery...  0.378745    0.661345  0.638272  0.361760
+6   dph WITH Bo1QueryExpansion - tfidf WITH Bo1Que...  0.384249    0.642889  0.635448  0.380982
+7   dph WITH Bo1QueryExpansion - tfidf WITH KLQuer...  0.384486    0.642628  0.640189  0.375852
+8   dph WITH Bo1QueryExpansion - dph WITH KLQueryE...  0.375888    0.663257  0.634001  0.365521
+9   dph WITH KLQueryExpansion - tfidf WITH Bo1Quer...  0.387087    0.664238  0.638531  0.379784
+10  dph WITH KLQueryExpansion - tfidf WITH KLQuery...  0.383305    0.651375  0.638198  0.380167
+11  dph WITH KLQueryExpansion - dph WITH Bo1QueryE...  0.374395    0.653876  0.631036  0.365550
+
+
+name          tfidf WITH KLQueryExpansion - tfidf WITH Bo1Qu...
+map                                                    0.387087
+recip_rank                                             0.664238
+ndcg                                                   0.640672
+Rprec                                                  0.380982
+dtype: object
