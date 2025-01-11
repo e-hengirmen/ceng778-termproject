@@ -2,9 +2,10 @@
 * [ ] IStella indir
 * [ ] See Istella 21 mpaper for example methods and use them
 * [ ] try LTR and neural IR approaches
-  * [ ] approach 1
-  * [ ] approach 1
-  * [ ] approach 1
+  * [ ] 𝜆-Mart -> LTR
+  * [ ] monoT5(transfer) -> Neural model, transfer learning, zero shot
+  * [ ] monoT5(tuned) -> Neural model, tuned on istella22
+  * [ ] 𝜆-Mart_{monoT5} -> LTR with monoT5 output added as a feature 
 * [ ] evaluate above aproaches
 * [ ] Decide on combining stratagies(see the classical paper(https://ciir-publications.cs.umass.edu/getpdf.php?id=63)
 * [ ] some ranking aggregation approaches are
