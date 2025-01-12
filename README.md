@@ -11,7 +11,7 @@
     * similarity by concordoncy
     * decrease by similarity after each selection
   * [ ] MY 3 GAS alternatives
-    * Instead of selecting best score select Best(score-(max or average of min) similarity)  
+    * Instead of selecting best score select Best(score-(max or average or min) similarity)  
   * [ ]  Multi-Stage Retrieval Pipeline with LCE loss(P6 - ours)
 * [ ] evaluate above aproaches
 * [ ] Decide on combining stratagies(see the classical paper(https://ciir-publications.cs.umass.edu/getpdf.php?id=63)
