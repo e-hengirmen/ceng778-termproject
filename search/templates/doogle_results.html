@@ -49,7 +49,7 @@
     <div class="results">
         {% for result in results %}
             <div class="result">
-                <a href="/document/{{ result }}">{{ result }}</a>
+                <a href="/document/{{ result.0 }}">{{ result.1 }}</a>
             </div>
         {% empty %}
             <p>No results found.</p>
