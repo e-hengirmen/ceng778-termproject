@@ -180,7 +180,7 @@ def return_same(val):
     return val
 
 features_list = [19, 6, 5, 4, 18, 17, 2, 16, 9, 15, 0, 12, 14, 8, 1, 3, 10, 13, 7, 11]
-num_of_features = 19
+num_of_features = 8
 
 def get_features(doc, query, bm25_score):
     feature_func_list = (
