@@ -19,4 +19,5 @@
   * [ ] combnz
   * [ ] combsum
   * [ ] borda voting
-  * [ ] some supervised learning approach  
+  * [ ] some supervised learning approach
+* [ ] compare by ndcg scores
