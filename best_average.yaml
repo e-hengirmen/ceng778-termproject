@@ -1,0 +1,438 @@
+best_average-220 ### iteration_took: 13.606206178665161
+feature_count: 220 ndcg_score: 0.8570389214209102 prediction_time: 0.4866645336151123
+best_average-219 ### iteration_took: 12.807316780090332
+feature_count: 219 ndcg_score: 0.8570627447371568 prediction_time: 0.6707234382629395
+best_average-218 ### iteration_took: 14.021651029586792
+feature_count: 218 ndcg_score: 0.8559601048885805 prediction_time: 0.5854654312133789
+best_average-217 ### iteration_took: 13.139941930770874
+feature_count: 217 ndcg_score: 0.8569231965534109 prediction_time: 0.503638744354248
+best_average-216 ### iteration_took: 13.028754711151123
+feature_count: 216 ndcg_score: 0.8568905257788608 prediction_time: 0.6261692047119141
+best_average-215 ### iteration_took: 12.066486358642578
+feature_count: 215 ndcg_score: 0.8567195348336551 prediction_time: 0.6185860633850098
+best_average-214 ### iteration_took: 12.58699631690979
+feature_count: 214 ndcg_score: 0.8567195348336551 prediction_time: 0.4690382480621338
+best_average-213 ### iteration_took: 11.59948468208313
+feature_count: 213 ndcg_score: 0.8567195348336551 prediction_time: 0.48351097106933594
+best_average-212 ### iteration_took: 10.98390507698059
+feature_count: 212 ndcg_score: 0.8567195348336551 prediction_time: 0.6271581649780273
+best_average-211 ### iteration_took: 11.418790817260742
+feature_count: 211 ndcg_score: 0.8567195348336551 prediction_time: 0.4691927433013916
+best_average-210 ### iteration_took: 10.927591562271118
+feature_count: 210 ndcg_score: 0.8547152954864201 prediction_time: 0.5128593444824219
+best_average-209 ### iteration_took: 12.121220350265503
+feature_count: 209 ndcg_score: 0.8554079439009025 prediction_time: 0.5922408103942871
+best_average-208 ### iteration_took: 12.788159132003784
+feature_count: 208 ndcg_score: 0.8538598102019128 prediction_time: 0.46485304832458496
+best_average-207 ### iteration_took: 9.430325031280518
+feature_count: 207 ndcg_score: 0.8538598102019128 prediction_time: 0.6095952987670898
+best_average-206 ### iteration_took: 12.13911485671997
+feature_count: 206 ndcg_score: 0.8547221293500975 prediction_time: 0.4945240020751953
+best_average-205 ### iteration_took: 9.542882442474365
+feature_count: 205 ndcg_score: 0.8547221293500975 prediction_time: 0.5781571865081787
+best_average-204 ### iteration_took: 11.415119409561157
+feature_count: 204 ndcg_score: 0.8543247637842711 prediction_time: 0.5863461494445801
+best_average-203 ### iteration_took: 11.889172792434692
+feature_count: 203 ndcg_score: 0.8562124061068925 prediction_time: 0.5761210918426514
+best_average-202 ### iteration_took: 12.0102858543396
+feature_count: 202 ndcg_score: 0.8536085978167206 prediction_time: 0.54726243019104
+best_average-201 ### iteration_took: 11.95964241027832
+feature_count: 201 ndcg_score: 0.8534533951520951 prediction_time: 0.4640042781829834
+best_average-200 ### iteration_took: 11.648014068603516
+feature_count: 200 ndcg_score: 0.8564677521892875 prediction_time: 0.5782027244567871
+best_average-199 ### iteration_took: 12.124846935272217
+feature_count: 199 ndcg_score: 0.8564677521892875 prediction_time: 0.573169469833374
+best_average-198 ### iteration_took: 11.838391780853271
+feature_count: 198 ndcg_score: 0.8564677521892875 prediction_time: 0.4651477336883545
+best_average-197 ### iteration_took: 11.698521614074707
+feature_count: 197 ndcg_score: 0.8564677521892875 prediction_time: 0.48927831649780273
+best_average-196 ### iteration_took: 11.646172761917114
+feature_count: 196 ndcg_score: 0.8533905061217 prediction_time: 0.4535198211669922
+best_average-195 ### iteration_took: 11.20680284500122
+feature_count: 195 ndcg_score: 0.8547058924276782 prediction_time: 0.45229578018188477
+best_average-194 ### iteration_took: 10.491548299789429
+feature_count: 194 ndcg_score: 0.85665813448674 prediction_time: 0.46665167808532715
+best_average-193 ### iteration_took: 10.096733331680298
+feature_count: 193 ndcg_score: 0.85665813448674 prediction_time: 0.4493680000305176
+best_average-192 ### iteration_took: 10.392733573913574
+feature_count: 192 ndcg_score: 0.8556300530410554 prediction_time: 0.5626070499420166
+best_average-191 ### iteration_took: 11.62732744216919
+feature_count: 191 ndcg_score: 0.8546272359023653 prediction_time: 0.5580334663391113
+best_average-190 ### iteration_took: 11.595124244689941
+feature_count: 190 ndcg_score: 0.85100218318618 prediction_time: 0.4453127384185791
+best_average-189 ### iteration_took: 9.222874641418457
+feature_count: 189 ndcg_score: 0.8514805300230905 prediction_time: 0.4430539608001709
+best_average-188 ### iteration_took: 10.055052757263184
+feature_count: 188 ndcg_score: 0.8516320453704992 prediction_time: 0.4408996105194092
+best_average-187 ### iteration_took: 11.028448104858398
+feature_count: 187 ndcg_score: 0.8530694365613939 prediction_time: 0.4383523464202881
+best_average-186 ### iteration_took: 9.911689758300781
+feature_count: 186 ndcg_score: 0.8507711828729035 prediction_time: 0.5595896244049072
+best_average-185 ### iteration_took: 9.21826434135437
+feature_count: 185 ndcg_score: 0.8532032193722976 prediction_time: 0.5798606872558594
+best_average-184 ### iteration_took: 11.107857942581177
+feature_count: 184 ndcg_score: 0.8522358394931544 prediction_time: 0.42929911613464355
+best_average-183 ### iteration_took: 9.475367784500122
+feature_count: 183 ndcg_score: 0.8526747178278528 prediction_time: 0.4242415428161621
+best_average-182 ### iteration_took: 10.964900732040405
+feature_count: 182 ndcg_score: 0.8509765191753806 prediction_time: 0.42000365257263184
+best_average-181 ### iteration_took: 10.437783002853394
+feature_count: 181 ndcg_score: 0.8517982458854442 prediction_time: 0.4296228885650635
+best_average-180 ### iteration_took: 9.614001274108887
+feature_count: 180 ndcg_score: 0.8526310965691327 prediction_time: 0.44238829612731934
+best_average-179 ### iteration_took: 10.23597502708435
+feature_count: 179 ndcg_score: 0.8516147508711501 prediction_time: 0.42333006858825684
+best_average-178 ### iteration_took: 10.09281873703003
+feature_count: 178 ndcg_score: 0.8523233081094772 prediction_time: 0.41272902488708496
+best_average-177 ### iteration_took: 8.638534784317017
+feature_count: 177 ndcg_score: 0.8524210137909847 prediction_time: 0.47588586807250977
+best_average-176 ### iteration_took: 10.57362675666809
+feature_count: 176 ndcg_score: 0.8499770756759258 prediction_time: 0.5214672088623047
+best_average-175 ### iteration_took: 10.594577074050903
+feature_count: 175 ndcg_score: 0.8503714228600999 prediction_time: 0.41047000885009766
+best_average-174 ### iteration_took: 9.919671058654785
+feature_count: 174 ndcg_score: 0.8528869776130069 prediction_time: 0.4190402030944824
+best_average-173 ### iteration_took: 9.499769926071167
+feature_count: 173 ndcg_score: 0.8531472273171109 prediction_time: 0.47301650047302246
+best_average-172 ### iteration_took: 10.49522089958191
+feature_count: 172 ndcg_score: 0.8515879332083386 prediction_time: 0.4101099967956543
+best_average-171 ### iteration_took: 9.824120283126831
+feature_count: 171 ndcg_score: 0.8513222273654143 prediction_time: 0.5267043113708496
+best_average-170 ### iteration_took: 10.344926118850708
+feature_count: 170 ndcg_score: 0.8511043783221839 prediction_time: 0.4036383628845215
+best_average-169 ### iteration_took: 9.048458576202393
+feature_count: 169 ndcg_score: 0.8493013528264715 prediction_time: 0.5250332355499268
+best_average-168 ### iteration_took: 10.178106546401978
+feature_count: 168 ndcg_score: 0.8521196158231154 prediction_time: 0.40091538429260254
+best_average-167 ### iteration_took: 9.726029872894287
+feature_count: 167 ndcg_score: 0.8521196158231154 prediction_time: 0.39859962463378906
+best_average-166 ### iteration_took: 8.234009027481079
+feature_count: 166 ndcg_score: 0.8521196158231154 prediction_time: 0.44283390045166016
+best_average-165 ### iteration_took: 9.983497858047485
+feature_count: 165 ndcg_score: 0.8512528266874927 prediction_time: 0.3942911624908447
+best_average-164 ### iteration_took: 9.721289873123169
+feature_count: 164 ndcg_score: 0.8511835472518791 prediction_time: 0.5125617980957031
+best_average-163 ### iteration_took: 9.963413715362549
+feature_count: 163 ndcg_score: 0.8530098076616285 prediction_time: 0.3877222537994385
+best_average-162 ### iteration_took: 7.838402271270752
+feature_count: 162 ndcg_score: 0.8510379583963603 prediction_time: 0.3979320526123047
+best_average-161 ### iteration_took: 7.5612945556640625
+feature_count: 161 ndcg_score: 0.8515554213403103 prediction_time: 0.3991849422454834
+best_average-160 ### iteration_took: 7.848464488983154
+feature_count: 160 ndcg_score: 0.8515554213403103 prediction_time: 0.4253108501434326
+best_average-159 ### iteration_took: 9.655553102493286
+feature_count: 159 ndcg_score: 0.8504946817907235 prediction_time: 0.5002119541168213
+best_average-158 ### iteration_took: 9.713384866714478
+feature_count: 158 ndcg_score: 0.8512143316315745 prediction_time: 0.38392090797424316
+best_average-157 ### iteration_took: 7.708713531494141
+feature_count: 157 ndcg_score: 0.8486649378965047 prediction_time: 0.4902970790863037
+best_average-156 ### iteration_took: 9.285821914672852
+feature_count: 156 ndcg_score: 0.8486054532668985 prediction_time: 0.4968893527984619
+best_average-155 ### iteration_took: 9.48249864578247
+feature_count: 155 ndcg_score: 0.8518042494617274 prediction_time: 0.5042233467102051
+best_average-154 ### iteration_took: 9.37588381767273
+feature_count: 154 ndcg_score: 0.8480957970159055 prediction_time: 0.38448214530944824
+best_average-153 ### iteration_took: 8.110027074813843
+feature_count: 153 ndcg_score: 0.8481176953315498 prediction_time: 0.4205038547515869
+best_average-152 ### iteration_took: 9.194053411483765
+feature_count: 152 ndcg_score: 0.8481176953315498 prediction_time: 0.4781301021575928
+best_average-151 ### iteration_took: 9.419033288955688
+feature_count: 151 ndcg_score: 0.8498456142355992 prediction_time: 0.3740360736846924
+best_average-150 ### iteration_took: 6.892325401306152
+feature_count: 150 ndcg_score: 0.8507855287689203 prediction_time: 0.47805023193359375
+best_average-149 ### iteration_took: 9.096451759338379
+feature_count: 149 ndcg_score: 0.8521851589867178 prediction_time: 0.44698405265808105
+best_average-148 ### iteration_took: 8.962095260620117
+feature_count: 148 ndcg_score: 0.8486258781327805 prediction_time: 0.3754117488861084
+best_average-147 ### iteration_took: 7.715169906616211
+feature_count: 147 ndcg_score: 0.8479677972699666 prediction_time: 0.3683798313140869
+best_average-146 ### iteration_took: 8.508289098739624
+feature_count: 146 ndcg_score: 0.8479677972699666 prediction_time: 0.37081432342529297
+best_average-145 ### iteration_took: 7.61922812461853
+feature_count: 145 ndcg_score: 0.8502433939098784 prediction_time: 0.3874483108520508
+best_average-144 ### iteration_took: 7.434353828430176
+feature_count: 144 ndcg_score: 0.8472452943421062 prediction_time: 0.3603484630584717
+best_average-143 ### iteration_took: 8.452388525009155
+feature_count: 143 ndcg_score: 0.8463314238145483 prediction_time: 0.3565406799316406
+best_average-142 ### iteration_took: 7.1860411167144775
+feature_count: 142 ndcg_score: 0.848880068106368 prediction_time: 0.45587635040283203
+best_average-141 ### iteration_took: 8.747143745422363
+feature_count: 141 ndcg_score: 0.8494334408513359 prediction_time: 0.3967251777648926
+best_average-140 ### iteration_took: 8.557408809661865
+feature_count: 140 ndcg_score: 0.8442117632262167 prediction_time: 0.4215421676635742
+best_average-139 ### iteration_took: 8.429701328277588
+feature_count: 139 ndcg_score: 0.8473157462239173 prediction_time: 0.42856574058532715
+best_average-138 ### iteration_took: 8.552836179733276
+feature_count: 138 ndcg_score: 0.8483982863864774 prediction_time: 0.3513946533203125
+best_average-137 ### iteration_took: 6.689089775085449
+feature_count: 137 ndcg_score: 0.8483982863864774 prediction_time: 0.3466179370880127
+best_average-136 ### iteration_took: 7.076643466949463
+feature_count: 136 ndcg_score: 0.8493338516438135 prediction_time: 0.3551826477050781
+best_average-135 ### iteration_took: 7.109904766082764
+feature_count: 135 ndcg_score: 0.8470751905703768 prediction_time: 0.34828615188598633
+best_average-134 ### iteration_took: 6.905804634094238
+feature_count: 134 ndcg_score: 0.8468615440540899 prediction_time: 0.35094618797302246
+best_average-133 ### iteration_took: 7.235846519470215
+feature_count: 133 ndcg_score: 0.8458662894053078 prediction_time: 0.4414224624633789
+best_average-132 ### iteration_took: 8.361046075820923
+feature_count: 132 ndcg_score: 0.8483491596345439 prediction_time: 0.4277322292327881
+best_average-131 ### iteration_took: 8.175589561462402
+feature_count: 131 ndcg_score: 0.8459867047056684 prediction_time: 0.43091845512390137
+best_average-130 ### iteration_took: 7.9955573081970215
+feature_count: 130 ndcg_score: 0.8470647000383337 prediction_time: 0.35169339179992676
+best_average-129 ### iteration_took: 7.945126295089722
+feature_count: 129 ndcg_score: 0.847736008090362 prediction_time: 0.33658504486083984
+best_average-128 ### iteration_took: 6.440573692321777
+feature_count: 128 ndcg_score: 0.8469780640249174 prediction_time: 0.33495187759399414
+best_average-127 ### iteration_took: 8.203997611999512
+feature_count: 127 ndcg_score: 0.8460221004042009 prediction_time: 0.32970261573791504
+best_average-126 ### iteration_took: 5.777015924453735
+feature_count: 126 ndcg_score: 0.8461776088345442 prediction_time: 0.3492300510406494
+best_average-125 ### iteration_took: 7.786425590515137
+feature_count: 125 ndcg_score: 0.8466829262561851 prediction_time: 0.4201335906982422
+best_average-124 ### iteration_took: 7.782463312149048
+feature_count: 124 ndcg_score: 0.8470371745641176 prediction_time: 0.329296350479126
+best_average-123 ### iteration_took: 5.641343116760254
+feature_count: 123 ndcg_score: 0.8469569068573913 prediction_time: 0.3255734443664551
+best_average-122 ### iteration_took: 5.619621753692627
+feature_count: 122 ndcg_score: 0.8487337053664475 prediction_time: 0.33021974563598633
+best_average-121 ### iteration_took: 6.035162448883057
+feature_count: 121 ndcg_score: 0.8498519649009069 prediction_time: 0.3246629238128662
+best_average-120 ### iteration_took: 7.185679197311401
+feature_count: 120 ndcg_score: 0.8458947919877284 prediction_time: 0.408477783203125
+best_average-119 ### iteration_took: 7.587747573852539
+feature_count: 119 ndcg_score: 0.8458947919877284 prediction_time: 0.339951753616333
+best_average-118 ### iteration_took: 7.4069435596466064
+feature_count: 118 ndcg_score: 0.8466173490224441 prediction_time: 0.3262202739715576
+best_average-117 ### iteration_took: 6.946321964263916
+feature_count: 117 ndcg_score: 0.8479483301666065 prediction_time: 0.4037036895751953
+best_average-116 ### iteration_took: 7.71697998046875
+feature_count: 116 ndcg_score: 0.8454863843538296 prediction_time: 0.39756059646606445
+best_average-115 ### iteration_took: 7.345562696456909
+feature_count: 115 ndcg_score: 0.8454863843538296 prediction_time: 0.39615726470947266
+best_average-114 ### iteration_took: 7.318364381790161
+feature_count: 114 ndcg_score: 0.8454863843538296 prediction_time: 0.3121516704559326
+best_average-113 ### iteration_took: 5.847611904144287
+feature_count: 113 ndcg_score: 0.84655489627003 prediction_time: 0.3072695732116699
+best_average-112 ### iteration_took: 6.926731109619141
+feature_count: 112 ndcg_score: 0.8417585831201666 prediction_time: 0.3854238986968994
+best_average-111 ### iteration_took: 7.154545307159424
+feature_count: 111 ndcg_score: 0.8458376616219729 prediction_time: 0.3750040531158447
+best_average-110 ### iteration_took: 7.118056774139404
+feature_count: 110 ndcg_score: 0.8453731794590816 prediction_time: 0.39927196502685547
+best_average-109 ### iteration_took: 7.075124263763428
+feature_count: 109 ndcg_score: 0.8458590916726356 prediction_time: 0.3578920364379883
+best_average-108 ### iteration_took: 6.928160667419434
+feature_count: 108 ndcg_score: 0.844190540145193 prediction_time: 0.3781125545501709
+best_average-107 ### iteration_took: 6.914057493209839
+feature_count: 107 ndcg_score: 0.8444475405832536 prediction_time: 0.3668088912963867
+best_average-106 ### iteration_took: 6.900878429412842
+feature_count: 106 ndcg_score: 0.8444198964967886 prediction_time: 0.29636502265930176
+best_average-105 ### iteration_took: 5.428879499435425
+feature_count: 105 ndcg_score: 0.8395368731088121 prediction_time: 0.32524967193603516
+best_average-104 ### iteration_took: 6.707794666290283
+feature_count: 104 ndcg_score: 0.8397503081087582 prediction_time: 0.29262495040893555
+best_average-103 ### iteration_took: 5.444514751434326
+feature_count: 103 ndcg_score: 0.839886573819071 prediction_time: 0.36444902420043945
+best_average-102 ### iteration_took: 6.736376047134399
+feature_count: 102 ndcg_score: 0.8400319677645758 prediction_time: 0.3011207580566406
+best_average-101 ### iteration_took: 5.387853622436523
+feature_count: 101 ndcg_score: 0.8398426003487292 prediction_time: 0.3591654300689697
+best_average-100 ### iteration_took: 6.592236518859863
+feature_count: 100 ndcg_score: 0.8361304845129885 prediction_time: 0.29502296447753906
+best_average-99 ### iteration_took: 5.108607053756714
+feature_count: 99 ndcg_score: 0.838738811408471 prediction_time: 0.3143796920776367
+best_average-98 ### iteration_took: 6.3871235847473145
+feature_count: 98 ndcg_score: 0.8372585693076148 prediction_time: 0.28095459938049316
+best_average-97 ### iteration_took: 5.015902042388916
+feature_count: 97 ndcg_score: 0.8379135798121532 prediction_time: 0.2875943183898926
+best_average-96 ### iteration_took: 6.242955207824707
+feature_count: 96 ndcg_score: 0.8361538183742239 prediction_time: 0.28290891647338867
+best_average-95 ### iteration_took: 6.11779260635376
+feature_count: 95 ndcg_score: 0.8379697109300419 prediction_time: 0.3137235641479492
+best_average-94 ### iteration_took: 6.243596076965332
+feature_count: 94 ndcg_score: 0.8391373933609221 prediction_time: 0.2817108631134033
+best_average-93 ### iteration_took: 4.476261377334595
+feature_count: 93 ndcg_score: 0.8361125523687056 prediction_time: 0.3430502414703369
+best_average-92 ### iteration_took: 6.302973031997681
+feature_count: 92 ndcg_score: 0.8380257925182631 prediction_time: 0.33625078201293945
+best_average-91 ### iteration_took: 6.12813138961792
+feature_count: 91 ndcg_score: 0.8376790246054245 prediction_time: 0.27172374725341797
+best_average-90 ### iteration_took: 5.5811686515808105
+feature_count: 90 ndcg_score: 0.8370291368606909 prediction_time: 0.26486992835998535
+best_average-89 ### iteration_took: 5.774462699890137
+feature_count: 89 ndcg_score: 0.8370610769017819 prediction_time: 0.27411341667175293
+best_average-88 ### iteration_took: 4.847280263900757
+feature_count: 88 ndcg_score: 0.8375684433613542 prediction_time: 0.33611273765563965
+best_average-87 ### iteration_took: 4.473384857177734
+feature_count: 87 ndcg_score: 0.8387638593428277 prediction_time: 0.27345728874206543
+best_average-86 ### iteration_took: 5.984333515167236
+feature_count: 86 ndcg_score: 0.8387638593428277 prediction_time: 0.2654600143432617
+best_average-85 ### iteration_took: 4.270803451538086
+feature_count: 85 ndcg_score: 0.8365874013982891 prediction_time: 0.3291616439819336
+best_average-84 ### iteration_took: 4.33896279335022
+feature_count: 84 ndcg_score: 0.8365874013982891 prediction_time: 0.32099437713623047
+best_average-83 ### iteration_took: 5.89477801322937
+feature_count: 83 ndcg_score: 0.8365874013982891 prediction_time: 0.26413536071777344
+best_average-82 ### iteration_took: 4.222984552383423
+feature_count: 82 ndcg_score: 0.8396652885308623 prediction_time: 0.2610504627227783
+best_average-81 ### iteration_took: 5.056352853775024
+feature_count: 81 ndcg_score: 0.8364423196404853 prediction_time: 0.26057004928588867
+best_average-80 ### iteration_took: 4.425308465957642
+feature_count: 80 ndcg_score: 0.8344961746989106 prediction_time: 0.31342267990112305
+best_average-79 ### iteration_took: 5.8856987953186035
+feature_count: 79 ndcg_score: 0.8344961746989106 prediction_time: 0.2579026222229004
+best_average-78 ### iteration_took: 5.486189603805542
+feature_count: 78 ndcg_score: 0.8363099397355427 prediction_time: 0.3043830394744873
+best_average-77 ### iteration_took: 5.756737232208252
+feature_count: 77 ndcg_score: 0.8402212873154453 prediction_time: 0.2563190460205078
+best_average-76 ### iteration_took: 5.062884092330933
+feature_count: 76 ndcg_score: 0.8332238705548222 prediction_time: 0.3182218074798584
+best_average-75 ### iteration_took: 4.14306378364563
+feature_count: 75 ndcg_score: 0.8332238705548222 prediction_time: 0.299793004989624
+best_average-74 ### iteration_took: 5.78875470161438
+feature_count: 74 ndcg_score: 0.8349132694112152 prediction_time: 0.2466120719909668
+best_average-73 ### iteration_took: 4.349810838699341
+feature_count: 73 ndcg_score: 0.8353676578995404 prediction_time: 0.24918723106384277
+best_average-72 ### iteration_took: 4.369324684143066
+feature_count: 72 ndcg_score: 0.8333010171363807 prediction_time: 0.29723381996154785
+best_average-71 ### iteration_took: 5.738519668579102
+feature_count: 71 ndcg_score: 0.8333010171363807 prediction_time: 0.24770855903625488
+best_average-70 ### iteration_took: 4.083491802215576
+feature_count: 70 ndcg_score: 0.8335116529167391 prediction_time: 0.2892487049102783
+best_average-69 ### iteration_took: 5.637143135070801
+feature_count: 69 ndcg_score: 0.833218462655503 prediction_time: 0.23620390892028809
+best_average-68 ### iteration_took: 3.974165678024292
+feature_count: 68 ndcg_score: 0.8320756882815734 prediction_time: 0.282956600189209
+best_average-67 ### iteration_took: 5.514104843139648
+feature_count: 67 ndcg_score: 0.8320756882815734 prediction_time: 0.23797821998596191
+best_average-66 ### iteration_took: 3.94905161857605
+feature_count: 66 ndcg_score: 0.834184977287254 prediction_time: 0.2319011688232422
+best_average-65 ### iteration_took: 3.9458348751068115
+feature_count: 65 ndcg_score: 0.8312189001743694 prediction_time: 0.23331356048583984
+best_average-64 ### iteration_took: 4.2081780433654785
+feature_count: 64 ndcg_score: 0.8343907431876925 prediction_time: 0.22631311416625977
+best_average-63 ### iteration_took: 3.806358814239502
+feature_count: 63 ndcg_score: 0.8343907431876925 prediction_time: 0.27023839950561523
+best_average-62 ### iteration_took: 5.348365545272827
+feature_count: 62 ndcg_score: 0.8342886743551855 prediction_time: 0.22115159034729004
+best_average-61 ### iteration_took: 3.73156476020813
+feature_count: 61 ndcg_score: 0.8342886743551855 prediction_time: 0.2803361415863037
+best_average-60 ### iteration_took: 5.428807258605957
+feature_count: 60 ndcg_score: 0.8298349942390371 prediction_time: 0.2507178783416748
+best_average-59 ### iteration_took: 4.169885158538818
+feature_count: 59 ndcg_score: 0.8296296756342751 prediction_time: 0.22007346153259277
+best_average-58 ### iteration_took: 3.839937210083008
+feature_count: 58 ndcg_score: 0.8272543962544403 prediction_time: 0.2092599868774414
+best_average-57 ### iteration_took: 3.6435163021087646
+feature_count: 57 ndcg_score: 0.8285413757158261 prediction_time: 0.21661043167114258
+best_average-56 ### iteration_took: 3.7067878246307373
+feature_count: 56 ndcg_score: 0.8285413757158261 prediction_time: 0.20885038375854492
+best_average-55 ### iteration_took: 3.8801097869873047
+feature_count: 55 ndcg_score: 0.8285537029016096 prediction_time: 0.20892882347106934
+best_average-54 ### iteration_took: 3.925628662109375
+feature_count: 54 ndcg_score: 0.8278558016199696 prediction_time: 0.2072746753692627
+best_average-53 ### iteration_took: 3.525135040283203
+feature_count: 53 ndcg_score: 0.8290382716947412 prediction_time: 0.20616602897644043
+best_average-52 ### iteration_took: 5.016432285308838
+feature_count: 52 ndcg_score: 0.8295229233054255 prediction_time: 0.2065591812133789
+best_average-51 ### iteration_took: 4.131765365600586
+feature_count: 51 ndcg_score: 0.8295229233054255 prediction_time: 0.24239158630371094
+best_average-50 ### iteration_took: 5.227564334869385
+feature_count: 50 ndcg_score: 0.8272505140592757 prediction_time: 0.20004510879516602
+best_average-49 ### iteration_took: 3.6026947498321533
+feature_count: 49 ndcg_score: 0.8289166566928488 prediction_time: 0.2009108066558838
+best_average-48 ### iteration_took: 4.538952589035034
+feature_count: 48 ndcg_score: 0.8233845685227601 prediction_time: 0.22951817512512207
+best_average-47 ### iteration_took: 4.9997875690460205
+feature_count: 47 ndcg_score: 0.8233845685227601 prediction_time: 0.2312006950378418
+best_average-46 ### iteration_took: 5.096435308456421
+feature_count: 46 ndcg_score: 0.8215940564850164 prediction_time: 0.22666144371032715
+best_average-45 ### iteration_took: 5.232186555862427
+feature_count: 45 ndcg_score: 0.8213541595873441 prediction_time: 0.22754478454589844
+best_average-44 ### iteration_took: 5.001973390579224
+feature_count: 44 ndcg_score: 0.8214832204463302 prediction_time: 0.1929783821105957
+best_average-43 ### iteration_took: 4.9097137451171875
+feature_count: 43 ndcg_score: 0.8151173469088397 prediction_time: 0.19354748725891113
+best_average-42 ### iteration_took: 3.378772258758545
+feature_count: 42 ndcg_score: 0.8156382289640526 prediction_time: 0.21839118003845215
+best_average-41 ### iteration_took: 4.837323427200317
+feature_count: 41 ndcg_score: 0.8134944853651987 prediction_time: 0.1754012107849121
+best_average-40 ### iteration_took: 3.792156934738159
+feature_count: 40 ndcg_score: 0.7993002150503707 prediction_time: 0.14853143692016602
+best_average-39 ### iteration_took: 3.8470449447631836
+feature_count: 39 ndcg_score: 0.7983157615351539 prediction_time: 0.21822047233581543
+best_average-38 ### iteration_took: 4.68099045753479
+feature_count: 38 ndcg_score: 0.7956642486459983 prediction_time: 0.1449146270751953
+best_average-37 ### iteration_took: 3.8296265602111816
+feature_count: 37 ndcg_score: 0.7997719217443163 prediction_time: 0.18419480323791504
+best_average-36 ### iteration_took: 3.319263219833374
+feature_count: 36 ndcg_score: 0.7857195922686743 prediction_time: 0.18947052955627441
+best_average-35 ### iteration_took: 4.493597030639648
+feature_count: 35 ndcg_score: 0.7859627164065824 prediction_time: 0.14909863471984863
+best_average-34 ### iteration_took: 3.091656446456909
+feature_count: 34 ndcg_score: 0.7868406637569161 prediction_time: 0.17609763145446777
+best_average-33 ### iteration_took: 4.4382123947143555
+feature_count: 33 ndcg_score: 0.7835970494155469 prediction_time: 0.18111014366149902
+best_average-32 ### iteration_took: 4.500162124633789
+feature_count: 32 ndcg_score: 0.7878744744326776 prediction_time: 0.1454911231994629
+best_average-31 ### iteration_took: 4.086697816848755
+feature_count: 31 ndcg_score: 0.7866693418426585 prediction_time: 0.17657232284545898
+best_average-30 ### iteration_took: 3.8179686069488525
+feature_count: 30 ndcg_score: 0.7866693418426585 prediction_time: 0.1737983226776123
+best_average-29 ### iteration_took: 3.031471014022827
+feature_count: 29 ndcg_score: 0.7866693418426585 prediction_time: 0.1456615924835205
+best_average-28 ### iteration_took: 4.230658769607544
+feature_count: 28 ndcg_score: 0.7866693418426585 prediction_time: 0.18808317184448242
+best_average-27 ### iteration_took: 2.9699008464813232
+feature_count: 27 ndcg_score: 0.7866693418426585 prediction_time: 0.1460740566253662
+best_average-26 ### iteration_took: 4.375074148178101
+feature_count: 26 ndcg_score: 0.7866693418426585 prediction_time: 0.17555832862854004
+best_average-25 ### iteration_took: 4.111349821090698
+feature_count: 25 ndcg_score: 0.7866693418426585 prediction_time: 0.1434941291809082
+best_average-24 ### iteration_took: 3.887037515640259
+feature_count: 24 ndcg_score: 0.7866363301965036 prediction_time: 0.16672921180725098
+best_average-23 ### iteration_took: 4.062069416046143
+feature_count: 23 ndcg_score: 0.7837538955712445 prediction_time: 0.1414945125579834
+best_average-22 ### iteration_took: 4.318687677383423
+feature_count: 22 ndcg_score: 0.7837538955712445 prediction_time: 0.13836169242858887
+best_average-21 ### iteration_took: 2.9563791751861572
+feature_count: 21 ndcg_score: 0.7837538955712445 prediction_time: 0.13655710220336914
+best_average-20 ### iteration_took: 2.957139492034912
+feature_count: 20 ndcg_score: 0.7837538955712445 prediction_time: 0.13671517372131348
+best_average-19 ### iteration_took: 3.8820583820343018
+feature_count: 19 ndcg_score: 0.7837538955712445 prediction_time: 0.13631081581115723
+best_average-18 ### iteration_took: 3.0427331924438477
+feature_count: 18 ndcg_score: 0.7837538955712445 prediction_time: 0.13766884803771973
+best_average-17 ### iteration_took: 4.285013437271118
+feature_count: 17 ndcg_score: 0.7837538955712445 prediction_time: 0.13461017608642578
+best_average-16 ### iteration_took: 3.8403427600860596
+feature_count: 16 ndcg_score: 0.7837538955712445 prediction_time: 0.13252043724060059
+best_average-15 ### iteration_took: 4.405558109283447
+feature_count: 15 ndcg_score: 0.7837538955712445 prediction_time: 0.14054369926452637
+best_average-14 ### iteration_took: 4.414525270462036
+feature_count: 14 ndcg_score: 0.7837538955712445 prediction_time: 0.15284991264343262
+best_average-13 ### iteration_took: 3.8310883045196533
+feature_count: 13 ndcg_score: 0.7837538955712445 prediction_time: 0.1297750473022461
+best_average-12 ### iteration_took: 3.839721441268921
+feature_count: 12 ndcg_score: 0.7837538955712445 prediction_time: 0.12984013557434082
+best_average-11 ### iteration_took: 2.973496437072754
+feature_count: 11 ndcg_score: 0.7837538955712445 prediction_time: 0.1284317970275879
+best_average-10 ### iteration_took: 2.79648756980896
+feature_count: 10 ndcg_score: 0.7837538955712445 prediction_time: 0.13109040260314941
+best_average-9 ### iteration_took: 3.4802258014678955
+feature_count: 9 ndcg_score: 0.7837538955712445 prediction_time: 0.1286907196044922
+best_average-8 ### iteration_took: 4.217674970626831
+feature_count: 8 ndcg_score: 0.7837538955712445 prediction_time: 0.12758421897888184
+best_average-7 ### iteration_took: 3.6073431968688965
+feature_count: 7 ndcg_score: 0.7837538955712445 prediction_time: 0.1250779628753662
+best_average-6 ### iteration_took: 2.7844033241271973
+feature_count: 6 ndcg_score: 0.7837538955712445 prediction_time: 0.12748241424560547
+best_average-5 ### iteration_took: 3.3611855506896973
+feature_count: 5 ndcg_score: 0.7837538955712445 prediction_time: 0.12424516677856445
+best_average-4 ### iteration_took: 4.102004051208496
+feature_count: 4 ndcg_score: 0.7837538955712445 prediction_time: 0.12480974197387695
+best_average-3 ### iteration_took: 4.1633031368255615
+feature_count: 3 ndcg_score: 0.7787145953870543 prediction_time: 0.12475204467773438
+best_average-2 ### iteration_took: 3.921983480453491
+feature_count: 2 ndcg_score: 0.7605828329377547 prediction_time: 0.13953709602355957
